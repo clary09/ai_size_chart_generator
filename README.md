@@ -39,4 +39,6 @@ The AI-Powered Size Chart Generator is a project designed to generate accurate s
 │   ├── test_transfer_learning.py   # Tests for transfer learning
 ├── README.md                       # Project documentation
 ├── requirements.txt                # Python dependencies
-└── run.py                          # Script to run the main application
+└── main.py                         # Script to run the main application
+
+
